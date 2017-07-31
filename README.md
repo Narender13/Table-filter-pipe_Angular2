@@ -1,0 +1,1 @@
+# Table-filter-pipe_Angular2
